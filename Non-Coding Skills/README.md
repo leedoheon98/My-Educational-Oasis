@@ -1,3 +1,3 @@
 # Non-Coding Skills
 
-이 디렉토리는 코딩 기술 외에 개발에 필요한 배경지식 등을 공부하기 위한 공간입니다.
+This directory is designated for studying non-coding skills and background knowledge essential for improving as a developer.
