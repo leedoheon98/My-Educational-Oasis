@@ -11,7 +11,7 @@
 이 리포지토리를 클론하여 로컬 환경에서 실행하려면 다음 명령어를 사용하세요:
 
 ```
-git clone https://github.com/your-username/My-Educational-Oasis.git
+git clone https://github.com/leedoheon98/My-Educational-Oasis.git
 ```
 
 각 디렉토리에는 해당 주제에 관한 자세한 설명이 포함되어 있으며, 필요한 자료를 자유롭게 참고하실 수 있습니다.
