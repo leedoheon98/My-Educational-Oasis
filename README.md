@@ -1,5 +1,5 @@
 # My Educational Oasis
-
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 
 ## 소개
 
