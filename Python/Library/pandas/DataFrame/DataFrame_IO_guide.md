@@ -1,13 +1,5 @@
 # How to Handle Input and Output in Pandas
 
-To upload any local file to Colab
-```
-from google.colab import files
-
-# 파일 업로드
-uploaded = files.upload()
-
-```
 pandas.DataFrame  <-->  csv | excel  file
 ```
 # read_csv()
