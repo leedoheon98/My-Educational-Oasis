@@ -1,4 +1,4 @@
-To upload any local file to Colab
+To upload any local file in Colab
 ```
 from google.colab import files
 
