@@ -9,3 +9,7 @@
 ```
 - **[Awesome Badges](https://github.com/badges/awesome-badges)**
 > Various Icon & Badges
+
+# Shortcut Keys
+- ctrl + b : 글씨를 굵게 해주는 '** **' 특수 문자로 덮어줌.
+- 
