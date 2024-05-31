@@ -28,4 +28,4 @@ git clone https://github.com/leedoheon98/My-Educational-Oasis.git
 
 ## 라이센스
 
-이 리포지토리의 내용은 [MIT 라이센스](LICENSE) 하에 배포됩니다.
+이 리포지토리의 내용은 [MIT 라이센스](https://opensource.org/license/mit) 하에 배포됩니다.
