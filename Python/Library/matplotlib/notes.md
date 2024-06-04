@@ -1,4 +1,4 @@
-# Matplotlib 에서 color 확인하기
+- Matplotlib 에서 color 확인하기
 ```
 import matplotlib.colors as mcolors
 
