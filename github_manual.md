@@ -1,4 +1,12 @@
-# Decorate
+# Table of Contents
+
+1. [Decoration](#decoration)
+2. [Shortcut Keys](#shortcut-keys)
+3. [MarkDown Uses](#markdown-uses)
+
+---
+
+## Decoration <a name="decoration"></a>
 
 - **[ICON](simpleicons.org/)**
 ```
@@ -9,7 +17,26 @@
 ```
 - **[Awesome Badges](https://github.com/badges/awesome-badges)**
 > Various Icon & Badges
+>> Simple Badges : the simplest way to use badges
 
-# Shortcut Keys
-- ctrl + b : 글씨를 굵게 해주는 '** **' 특수 문자로 덮어줌.
+---
+
+## Shortcut Keys <a name="shortcut-keys"></a>
+
+### GitHub Shortcuts
+- Ctrl + 0 : 확대/축소를 기본 텍스트 크기로 다시 설정
+- Ctrl + = : 더 큰 텍스트 및 그래픽을 위해 확대
+- Ctrl + - : 더 작은 텍스트 및 그래픽을 위해 축소
+- Ctrl + P : GitHub에 최신 커밋 푸시
+- Ctrl + Shift + G : GitHub에서 리포지토리 보기
 - 
+  
+### MarkDown Shortcuts
+- Ctrl + b : 글씨체를 굵게 (bold)
+- Ctrl + i : 글씨체를 기울여줌 (italic)
+- 
+
+---
+
+## MarkDown Uses <a name="markdown-uses"></a>
+
