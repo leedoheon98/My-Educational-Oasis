@@ -1,4 +1,4 @@
-# Table of Contents
+# ⚡ Table of Contents
 
 1. [Decoration](#decoration)
 2. [Shortcut Keys](#shortcut-keys)
@@ -8,16 +8,17 @@
 
 ## Decoration <a name="decoration"></a>
 
-- **[ICON](simpleicons.org/)**
-```
-  # 사용법
-  <img src="https://img.shields.io/badge/기술이름-#제외색상번호?style=for-the-badge&logo=아이콘이름&logoColor=white">
-
-  # 출처: https://byul91oh.tistory.com/214 [개꼬 [: 개발하는 꼬바리]:티스토리]
-```
 - **[Awesome Badges](https://github.com/badges/awesome-badges)**
-> Various Icon & Badges
->> Simple Badges : the simplest way to use badges
+  - Various Icons & Badges
+
+- [Simple Badge](https://badges.pages.dev/)
+
+- [Simple Icon](simpleicons.org/)
+  - 사용법
+  `<img src="https://img.shields.io/badge/기술이름-#제외색상번호?style=for-the-badge&logo=아이콘이름&logoColor=white">`
+  - 출처 : https://byul191oh.tistory.com/214
+
+- 
 
 ---
 
@@ -34,6 +35,7 @@
 ### MarkDown Shortcuts
 - Ctrl + b : 글씨체를 굵게 (bold)
 - Ctrl + i : 글씨체를 기울여줌 (italic)
+- Window + . : 이모지나 수학 기호 등
 - 
 
 ---
