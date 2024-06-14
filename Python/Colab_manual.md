@@ -1,4 +1,4 @@
-To upload any local file in Colab
+## To upload any local file in Colab
 ```
 from google.colab import files
 
@@ -6,3 +6,6 @@ from google.colab import files
 uploaded = files.upload()
 
 ```
+
+## Shortcuts
+- ctrl + ' : 모든 셀 접기/펴기
