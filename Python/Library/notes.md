@@ -40,8 +40,42 @@
 
 Pandas가 `describe()` 함수에 25퍼센타일, 50퍼센타일, 75퍼센타일을 포함시키는 이유는 이러한 통계가 데이터의 분포, 중심 경향, 변동성을 이해하는 데 중요한 역할을 하기 때문입니다. 이러한 통계는 데이터 분석에서 기본적이고 필수적인 정보를 제공하며, 데이터의 특성을 파악하고 분석 결과를 해석하는 데 큰 도움을 줍니다.
 
----
 
+---
+### How to Handle Input and Output in Pandas
+
+pandas.DataFrame  <-->  csv | excel  file
+```
+# read_csv()
+import pandas as pd
+df = pd.read_csv('data.csv')
+
+# to_csv()
+import pandas as pd
+df = pd.to_csv('data.csv', index=False)   # index=True로 할 시 csv나 excel 파일에 의도치 않은 임의 인덱스가 추가될 수 있음.
+
+# read_excel()
+import pandas as pd
+df = pd.read_excel('data.xlsx')
+
+# to_excel()
+import pandas as pd
+df = pd.to_excel('data.xlsx', index=False)   # index=True로 할 시 csv나 excel 파일에 의도치 않은 임의 인덱스가 추가될 수 있음.
+```
+DataFrame Browse
+```
+# head
+df.head()        >> Args : n= ( number, default=5 )
+
+# tail
+df.tail()        >> Args : n= ( number, default=5 )
+
+# describe       >> Generate descriptive statistics
+df.describe()
+
+# info           >> Print a concise summary of a DataFrame
+df.info()
+```
 
 
 ## MatplotLib
@@ -57,12 +91,12 @@ print(mcolors.CSS4_COLORS.keys())
 
 - Google Colab에서 Matplotlib을 사용할 때 한글 깨짐 현상을 해결하는 법
 ```
-# install fonts-nanum
+#### install fonts-nanum
 !sudo apt-get install -y fonts-nanum
 !sudo fc-cache -fv
 !rm ~/.cache/matplotlib -rf
 
-# 사용 예시
+#### 사용 예시
 import matplotlib.pyplot as plt
 plt.rc('font', family='NanumBarunGothic')
 ```
