@@ -1,5 +1,9 @@
 # Library
+ > This folder contains study materials and simple practice examples for powerful external Python libraries.
 
-이 디렉토리는 유용한 파이썬 외장함수들의 상세한 설명과 간단한 실습 예제 등을 통해 코딩 능력을 향상시키기 위한 공간입니다.
+### Contents
 
-
+1. [Matplotlib]('../My-Educational-Oasis/Python/Library/matplotlib')
+2. **NumPy**
+3. **Pandas**
+4. **Seaborn**
