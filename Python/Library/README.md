@@ -3,7 +3,7 @@
 
 ### Contents
 
-1. [Matplotlib]('../My-Educational-Oasis/Python/Library/matplotlib')
+1. [Matplotlib]('/matplotlib')
 2. **NumPy**
 3. **Pandas**
 4. **Seaborn**
