@@ -1,3 +1,7 @@
+This `notes.md` file is a personal reference created to assist me when I encounter challenges while studying. It has been compiled using various **web searches** and responses from **ChatGPT**.
+It includes valuable insights and tips that are essential for understanding and working with Python, which may not be immediately familiar to beginners.
+
+
 # Contents
 1. [Pandas](#Pandas)
 2. [MatplotLib](#MatplotLib)
@@ -16,7 +20,7 @@
 
 
 
----
+----------------------------------------------------------------------------------------------------------------------
 # Pandas
 
 ### DataScience 에서 25%, 50%, 75% 의 범위를 중요하게 여기는 이유  
@@ -103,7 +107,7 @@ df.info()
 
 
 
----
+----------------------------------------------------------------------------------------------------------------------
 # MatplotLib
 
 - Matplotlib 에서 color 확인하기
@@ -181,7 +185,7 @@ plt.rc('font', family='NanumBarunGothic')
 
 
 
----
+----------------------------------------------------------------------------------------------------------------------
 # Seaborn
 - Seaborn 에서 color 확인하기
 ```
@@ -203,7 +207,7 @@ sns.palettes.SEABORN_PALETTES.keys()
 
 
 
----
+----------------------------------------------------------------------------------------------------------------------
 # NumPy
 
 ### `np.random.normal`과 `np.random.randn` 함수의 차이점
