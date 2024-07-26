@@ -24,6 +24,9 @@ The `Library` directory focuses on Python's powerful libraries and frequently us
 
 - **[Pandas](pandas)**: Documentation and examples for using Pandas, a data manipulation and analysis library.
 - **[NumPy](numpy)**: Resources for NumPy, a library for numerical computations and handling arrays.
+- **[Matplotlib](matplotlib)**: Tutorials and examples for Matplotlib, a library for creating static, animated, and interactive visualizations in Python.
+- **[Seaborn](seaborn)**: Guides for using Seaborn, a statistical data visualization library based on Matplotlib that provides a high-level interface for drawing attractive and informative statistical graphics.
+
 
 This folder is crucial for learning and mastering key libraries that extend Python's capabilities and provide tools for data analysis, scientific computing, and more.
 
@@ -37,7 +40,5 @@ The `Project` directory contains simple programs and projects that apply the ski
 This folder is designed to help you practice and consolidate the skills you've acquired, turning theoretical knowledge into practical experience.
 
 
-
-## Contributing
 
 
