@@ -8,25 +8,21 @@ The `Python` directory is organized into three main subdirectories:
 
 ### 1. [Basic](Basic)
 
-The `Basic` directory provides fundamental knowledge about Python. It includes:
-
-- **Basic Syntax**: Introduction to Python syntax and basic programming constructs.
-- **Data Types**: Understanding Python's built-in data types, including strings, numbers, lists, tuples, and dictionaries.
-- **Control Structures**: Study of conditionals (if-else statements) and loops (for and while loops).
-- **Functions**: Basic function definitions, arguments, and return values.
-- **Built-in Functions**: Overview of Python's built-in functions and their usage.
-
-This folder is intended for building a solid foundation in Python programming.
-
+Although this directory was designed to establish a foundation in Python, and I have not actively maintained it for some time due to its initial purpose, it still contains essential materials that are crucial for becoming a proficient Python programmer. Therefore, it remains necessary to be familiar with the contents of this directory.
 
 ### 2. [Library](Library)
 
-The `Library` directory focuses on Python's powerful libraries and frequently used external modules. It includes:
+The `Library` directory focuses on Python's powerful libraries and frequently used external modules. I can confidently say that this is the most important section of my Python directory, where I spend the most time.
+It is organized into the following sections:
 
-- **[Pandas](pandas)**: Comprehensive documentation and examples for Pandas, a powerful library for data manipulation and analysis.
-- **[NumPy](numpy)**: Resources and tutorials for NumPy, a library designed for numerical computations and array handling.
-- **[Matplotlib](matplotlib)**: Guides and examples for Matplotlib, a library used for creating static, animated, and interactive visualizations in Python.
-- **[Seaborn](seaborn)**: Instructions for using Seaborn, a statistical data visualization library built on Matplotlib that offers a high-level interface for creating attractive and informative graphics.
+- [Data Analysis](Data_Analysis)
+  - **[Pandas](pandas)**: Comprehensive documentation and examples for Pandas, a powerful library for data manipulation and analysis.
+  - **[NumPy](numpy)**: Resources and tutorials for NumPy, a library designed for numerical computations and array handling.
+  - **[Matplotlib](matplotlib)**: Guides and examples for Matplotlib, a library used for creating static, animated, and interactive visualizations in Python.
+  - **[Seaborn](seaborn)**: Instructions for using Seaborn, a statistical data visualization library built on Matplotlib that offers a high-level interface for creating attractive and informative graphics.
+- [Machine Learning](MC_Learning)
+- [Web App](Web_App)
+- [Crawling](Crawling)
 
 This directory is essential for learning and mastering key libraries that extend Python's capabilities, offering tools for data analysis, scientific computing, and visualization. Additionally, the `Library` directory includes a `notes.md` file, which contains valuable insights and tips that may not be immediately familiar to beginners. This file is a useful resource if you encounter difficulties during your studies, providing handy information to support your learning journey.
 
