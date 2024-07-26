@@ -88,11 +88,22 @@
 ---
 
 ## 머신러닝의 분류 모델
-10개
-- 랜덤포레스트
-- KNN
-- 의사결정트리
-- XGB
-- GBM
-- LGBM
-- 
+
+1. **랜덤 포레스트 (Random Forest)**: 여러 개의 결정 트리(Decision Trees)를 조합하여 예측을 수행하는 앙상블 모델입니다.
+2. **K-최근접 이웃 (K-Nearest Neighbors, KNN)**: 새로운 데이터 포인트를 가장 가까운 K개의 이웃 데이터에 기반하여 분류합니다.
+3. **의사결정 트리 (Decision Tree)**: 데이터의 특성에 따라 결정 규칙을 적용하여 분류하는 트리 기반 모델입니다.
+4. **XGBoost (Extreme Gradient Boosting)**: 경량화된 그래디언트 부스팅 모델로, 성능과 효율성이 뛰어납니다.
+5. **GBM (Gradient Boosting Machine)**: 그래디언트 부스팅을 기반으로 하는 모델로, 여러 약한 학습기를 조합하여 강력한 분류기를 만듭니다.
+6. **LGBM (LightGBM)**: Light Gradient Boosting Machine으로, GBM의 변형이며 빠르고 메모리 효율적인 성능을 자랑합니다.
+7. **로지스틱 회귀 (Logistic Regression)**: 선형 모델로, 특성의 가중합을 기반으로 클래스 확률을 예측합니다.
+8. **서포트 벡터 머신 (Support Vector Machine, SVM)**: 클래스 간의 마진을 최대화하여 데이터를 분류하는 모델입니다.
+9. **나이브 베이즈 (Naive Bayes)**: 베이즈 정리를 기반으로 하며, 각 특성이 서로 독립적이라고 가정하여 분류합니다.
+10. **신경망 (Neural Networks)**: 다층 퍼셉트론(MLP) 또는 복잡한 신경망 구조를 사용하여 데이터의 패턴을 학습하는 모델입니다.
+11. **AdaBoost (Adaptive Boosting)**: 약한 학습기를 순차적으로 학습시켜 예측 성능을 향상시키는 앙상블 모델입니다.
+12. **QDA (Quadratic Discriminant Analysis)**: 클래스의 공분산 행렬이 다를 수 있는 경우를 고려하여 데이터 분포를 모델링합니다.
+13. **LDA (Linear Discriminant Analysis)**: 클래스 간의 분산을 최대화하고 클래스 내 분산을 최소화하여 데이터를 분리합니다.
+
+<br>
+<br>
+
+이 목록은 머신러닝의 다양한 분류 모델을 포괄하며, 각 모델은 데이터와 문제의 특성에 따라 적합한 방법을 제공합니다.
