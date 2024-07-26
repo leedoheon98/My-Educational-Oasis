@@ -18,17 +18,18 @@ The `Basic` directory provides fundamental knowledge about Python. It includes:
 
 This folder is intended for building a solid foundation in Python programming.
 
+
 ### 2. [Library](Library)
 
 The `Library` directory focuses on Python's powerful libraries and frequently used external modules. It includes:
 
-- **[Pandas](pandas)**: Documentation and examples for using Pandas, a data manipulation and analysis library.
-- **[NumPy](numpy)**: Resources for NumPy, a library for numerical computations and handling arrays.
-- **[Matplotlib](matplotlib)**: Tutorials and examples for Matplotlib, a library for creating static, animated, and interactive visualizations in Python.
-- **[Seaborn](seaborn)**: Guides for using Seaborn, a statistical data visualization library based on Matplotlib that provides a high-level interface for drawing attractive and informative statistical graphics.
+- **[Pandas](pandas)**: Comprehensive documentation and examples for Pandas, a powerful library for data manipulation and analysis.
+- **[NumPy](numpy)**: Resources and tutorials for NumPy, a library designed for numerical computations and array handling.
+- **[Matplotlib](matplotlib)**: Guides and examples for Matplotlib, a library used for creating static, animated, and interactive visualizations in Python.
+- **[Seaborn](seaborn)**: Instructions for using Seaborn, a statistical data visualization library built on Matplotlib that offers a high-level interface for creating attractive and informative graphics.
 
+This directory is essential for learning and mastering key libraries that extend Python's capabilities, offering tools for data analysis, scientific computing, and visualization. Additionally, the `Library` directory includes a `notes.md` file, which contains valuable insights and tips that may not be immediately familiar to beginners. This file is a useful resource if you encounter difficulties during your studies, providing handy information to support your learning journey.
 
-This folder is crucial for learning and mastering key libraries that extend Python's capabilities and provide tools for data analysis, scientific computing, and more.
 
 ### 3. [Project](Project)
 
