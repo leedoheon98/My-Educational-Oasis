@@ -1,7 +1,43 @@
-# Python
+# Python Directory Overview
 
-이 디렉토리에는 Python 프로그래밍 언어에 관련된 다양한 학습 자료와 프로젝트가 포함되어 있습니다.
+This directory, `Python`, is part of the **My Educational Oasis** repository. It is designed to serve as a comprehensive resource for self-study, covering everything from basic Python syntax to advanced libraries and practical projects. The content here allows you to review and reinforce your Python skills and indirectly gauge your learning progress.
 
-- **Basic**: Python 프로그래밍 언어에 대한 기초 지식, 기본 자료형과 문법 등을 연습하기 위한 디렉토리입니다.
-- **Project**: Python을 사용하여 구현된 실전 프로젝트들을 살펴볼 수 있습니다.
-- **Library**: Python 라이브러리와 모듈에 대한 사용법과 예제가 포함되어 있습니다.
+## Directory Structure
+
+The `Python` directory is organized into three main subdirectories:
+
+### 1. [Basic](Basic)
+
+The `Basic` directory provides fundamental knowledge about Python. It includes:
+
+- **Basic Syntax**: Introduction to Python syntax and basic programming constructs.
+- **Data Types**: Understanding Python's built-in data types, including strings, numbers, lists, tuples, and dictionaries.
+- **Control Structures**: Study of conditionals (if-else statements) and loops (for and while loops).
+- **Functions**: Basic function definitions, arguments, and return values.
+- **Built-in Functions**: Overview of Python's built-in functions and their usage.
+
+This folder is intended for building a solid foundation in Python programming.
+
+### 2. [Library](Library)
+
+The `Library` directory focuses on Python's powerful libraries and frequently used external modules. It includes:
+
+- **[Pandas](pandas)**: Documentation and examples for using Pandas, a data manipulation and analysis library.
+- **[NumPy](numpy)**: Resources for NumPy, a library for numerical computations and handling arrays.
+
+This folder is crucial for learning and mastering key libraries that extend Python's capabilities and provide tools for data analysis, scientific computing, and more.
+
+### 3. [Project](Project)
+
+The `Project` directory contains simple programs and projects that apply the skills learned from the other directories. It includes:
+
+- **Practical Applications**: Examples of how to implement Python concepts and libraries in real-world scenarios.
+- **Mini Projects**: Small projects that demonstrate the application of Python skills in different contexts.
+
+This folder is designed to help you practice and consolidate the skills you've acquired, turning theoretical knowledge into practical experience.
+
+
+
+## Contributing
+
+
