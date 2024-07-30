@@ -110,7 +110,7 @@ df.info()
 ----------------------------------------------------------------------------------------------------------------------
 # MatplotLib
 
-- Matplotlib 에서 color 확인하기
+## Matplotlib 에서 color 확인하기
 ```
 import matplotlib.colors as mcolors
 
@@ -119,7 +119,7 @@ print(mcolors.CSS4_COLORS.keys())
 
 
 
-- Google Colab에서 Matplotlib을 사용할 때 한글 깨짐 현상을 해결하는 법
+## Google Colab에서 Matplotlib을 사용할 때 한글 깨짐 현상을 해결하는 법
 ```
 #### install fonts-nanum
 !sudo apt-get install -y fonts-nanum
@@ -172,6 +172,17 @@ plt.rc('font', family='NanumBarunGothic')
 
 이렇게 하면 구글 코랩에서 `matplotlib`을 사용할 때 한글이 정상적으로 표시될 것입니다.
 
+## MatplotLib 에서는 다음과 같은 다양한 마커 옵션을 제공:
+
+- 'o': 원(circle)
+- '^': 위쪽을 향한 삼각형(triangle_up)
+- 's': 사각형(square)
+- '+': 플러스(plus sign)
+- '.': 점(point)
+- '*': 별표(별)
+- 'x': 엑스(x)
+- '|': 세로 막대(vertical line)
+-'_': 가로 막대(horizontal line)
 
 
 
